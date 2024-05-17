@@ -1,0 +1,1 @@
+check makefile, compile all cpp files with the makefile to proper run the program
