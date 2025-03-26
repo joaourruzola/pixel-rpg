@@ -1,22 +1,24 @@
-Pixel RPG Demo (C++ & CMake)
+## Pixel RPG Demo (C++ & CMake)
 
 A simple pixel-art RPG demo built in C++ using CMake. This project showcases a lightweight RPG engine with real-time rendering and game mechanics.
 Features
 
-    C++ & CMake: Easily compile and build the project.
+C++ & CMake: Easily compile and build the project.
 
-    Lightweight Engine: Uses a non-static game library for flexibility.
+Lightweight Engine: Uses a non-static game library for flexibility.
 
-    Pixel-Art RPG: Classic retro-inspired aesthetics.
+Pixel-Art RPG: Classic retro-inspired aesthetics.
 
-Installation & Usage
+## Installation & Usage
 
-    Clone the repository.
+You'll need ```cpp compiler``` and ```CMake``` to run the build commands.
 
-    Run CMake to generate the build files.
+- <a href="https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository">Clone</a> the repository.
 
-    Compile using CMake.
+ -Run CMake to generate the build files.
 
-    Execute the compiled binary and test for yourself!
+- Compile using CMake.
+
+- Execute the compiled binary and test for yourself!
 
 This project is a work-in-progress and serves as a demonstration of RPG mechanics in a pixel-art world. Contributions and feedback are welcome! 🚀
